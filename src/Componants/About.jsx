@@ -5,5 +5,4 @@ const About = () => {
     <div  className='bg-primary' style={{height:'100vh'}}>About</div>
   )
 }
-
 export default About
